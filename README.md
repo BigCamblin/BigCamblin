@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BigCamblin
-- 👀 I’m interested in video game hacks & bots, malware, and application security
+- 👋 Hi, I’m Camblin
+- 👀 I’m interested in video game hacks & bots, as well as cybersecurity topics such as DFIR, malware analysis/reverse engineering, and application security.
 - 🌱 I’m currently learning C++, then assembly, then reverse engineering, then game hacking!
-- 💞️ I’m looking to collaborate on video game hacks
-- 📫 How to reach me @BigCamblin (Twitter)
+- 💞️ I’m open to collaboration and communication on such topics/
+- 📫 Reach me at @BigCamblin (Twitter)
 
 <!---
 BigCamblin/BigCamblin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
