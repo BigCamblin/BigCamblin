@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BigCamblin
-- 👀 I’m interested in video game hacks & bots, reverse engineering, malware, and application security.
+- 👀 I’m interested in video game hacks & bots, malware, and application security
 - 🌱 I’m currently learning C++, then assembly, then reverse engineering, then game hacking!
 - 💞️ I’m looking to collaborate on video game hacks
 - 📫 How to reach me @BigCamblin (Twitter)
