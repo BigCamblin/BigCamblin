@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Camblin
-- 👀 I’m interested in video game security, as well as DFIR, malware analysis/RE, and application security
+- 👀 I’m interested a variety of software development and cybersecurity concepts
 - 🌱 I’m currently learning C++, then assembly, then reverse engineering, then ???? ???????
 - 💞️ I’m open to collaboration and communication on these topics
 - 📫 Reach me at @BigCamblin (Twitter)
