@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Camblin
-- 👀 I’m interested in video game hacks & bots, as well as cybersecurity topics such as DFIR, malware analysis/reverse engineering, and application security.
-- 🌱 I’m currently learning C++, then assembly, then reverse engineering, then game hacking!
-- 💞️ I’m open to collaboration and communication on such topics/
+- 👀 I’m interested in video game hacks & bots, as well as cybersecurity topics such as DFIR, malware analysis/reverse engineering, and application security
+- 🌱 I’m currently learning C++, then assembly, then reverse engineering, then game hacking
+- 💞️ I’m open to collaboration and communication on such topics
 - 📫 Reach me at @BigCamblin (Twitter)
 
 <!---
